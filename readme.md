@@ -2,6 +2,11 @@
 
 Repository ini berisi source code dari program python untuk melakukan enkripsi dan dekripsi teks menggunakan algoritma Vigenere chiper dan Diffie Hellman untuk melakukan pertukaran kunci.
 
+## Run Application
+```bash
+py app.py
+```bash
+
 ### Diffie Hellman
 Pertukaran kunci Diffie Hellman merupakan metode untuk melakukan pertukaran kunci kriptografi secara aman oleh dua pihak melalui channel yang bersifat public. Berikut adalah cara kerja Algoritma Diffie hellman :
 
